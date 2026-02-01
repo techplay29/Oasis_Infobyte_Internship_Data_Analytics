@@ -11,6 +11,8 @@ Data Analytics internship projects for Oasis Infobyte. Features 6 comprehensive 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
+
+
 ## 📝 Project Overview
 This repository showcases the data analytics and machine learning projects completed during my internship at **Oasis Infobyte**. The work is structured into two distinct levels, transitioning from exploratory data analysis to advanced predictive modeling.
 
