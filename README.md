@@ -5,10 +5,15 @@ Data Analytics internship projects for Oasis Infobyte. Features 6 comprehensive 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## Project Overview
+## 📝 Project Overview
 This repository showcases the data analytics and machine learning projects completed during my internship at **Oasis Infobyte**. The work is structured into two distinct levels, transitioning from exploratory data analysis to advanced predictive modeling.
+
+
+## 💻 Environment & Tools
+All projects were developed and executed within the **Anaconda** ecosystem using **Jupyter Notebooks**. This environment was chosen to ensure a robust, reproducible workflow for data manipulation, statistical modeling, and visualization.
 
 
 ## 📁 Repository Structure
@@ -24,10 +29,12 @@ This repository showcases the data analytics and machine learning projects compl
 3. **Unveiling the Android App Market:** In-depth analysis of the Google Play Store, combining market metrics with user sentiment polarity.
 
 
+
 ## 🛠️ Technical Stack & Skills
+* **Environment:** Anaconda (Jupyter Notebooks)
 * **Data Manipulation:** Python (Pandas, NumPy)
 * **Statistical Visualization:** Seaborn & Matplotlib (Focused on Data-Ink ratio and Color Theory)
-* **Machine Learning:** Regression, Classification, and Model Evaluation
+* **Machine Learning:** Regression, Classification, and Model Evaluation (Scikit-Learn)
 * **Reporting:** Integrated Jupyter Notebooks (.ipynb) and accessible HTML reports
 
 ## 📧 Submission Contact
